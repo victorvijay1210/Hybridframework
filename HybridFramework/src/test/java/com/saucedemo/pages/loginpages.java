@@ -13,6 +13,7 @@ public class loginpages {
 	public loginpages(WebDriver driver) {
 		
 		this.driver=driver;  
+		
 	}
 	
 	

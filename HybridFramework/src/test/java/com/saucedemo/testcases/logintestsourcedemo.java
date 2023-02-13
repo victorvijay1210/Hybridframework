@@ -10,6 +10,10 @@ import com.saucedemo.pages.loginpages;
 
 public class logintestsourcedemo  extends Baseclass{
 	
+	
+	
+	
+	
 	@Test
 	public void loginapp() throws Exception {
 		
